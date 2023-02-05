@@ -1,0 +1,39 @@
+{
+ "first_name": "Matthew",
+ "last_name": "Archer,
+ "roles": [
+ {
+  "role": "Server",
+  "duties:" "Take customer orders.",
+ },
+ {
+  "role": "Food Runner",
+  "duties": "Deliver food to tables.",
+ },
+ {
+  "role": "Busperson",
+  "duties": "Clean tables and reset tables.",
+ }
+ ]
+ "dependents": [
+ {
+  "first_name": "Claire",
+  "last_name": "Davis"
+ },
+ {
+  "first_name": "Joanna",
+  "last_name": "Davis"
+ },
+ {
+  "first_name": "Tank",
+  "last_name": "Archer"
+ }
+ ]
+ "birthdate": [
+ {
+  "month": "January",
+  "day": "07",
+  "year": "1993"
+ }
+ ]
+}
