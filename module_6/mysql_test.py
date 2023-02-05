@@ -1,3 +1,7 @@
+# Matthew Archer
+# 2/5/2023
+# Module 6 Assignment
+
 import mysql.connector
 from mysql.connector import errorcode
 
